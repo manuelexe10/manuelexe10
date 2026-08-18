@@ -11,7 +11,7 @@ I'm learning **Computer Science, AI, and software development**, with a long-ter
 *  Education Technology
 *  Health Technology
 *  Environmental Technology
-* Technology for Nigeria & Africa
+*  Improving Technology for Nigeria & Africa
 
 ###  Currently Learning
 
