@@ -1,16 +1,26 @@
-## Hi there 👋
+## Hi, I'm Emmanuel 👋
 
-<!--
-**manuelexe10/manuelexe10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Computer Science Student | AI Enthusiast | Future Engineer**
 
-Here are some ideas to get you started:
+I'm learning **Computer Science, AI, and software development**, with a long-term goal of using technology to solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Interested In
+
+* 🤖 Artificial Intelligence
+* 💻 Computer Science
+* 🎓 Education Technology
+* 🏥 Health Technology
+* 🌱 Environmental Technology
+* Technology for Nigeria & Africa
+
+### 🛠️ Currently Learning
+
+`Python` • `JavaScript` • `Git` • `Algorithms` • `Mathematics` • `AI/ML
+
+
+### 📫 Reach Me
+
+* **GitHub:** You're already here 🙂
+* **WhatsApp:** https://wa.link/xu8krx
+
+> **Learn. Build. Improve. Make an impact. 🌍**
