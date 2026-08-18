@@ -4,23 +4,23 @@
 
 I'm learning **Computer Science, AI, and software development**, with a long-term goal of using technology to solve real-world problems.
 
-### 🚀 Interested In
+###  Interested In
 
-* 🤖 Artificial Intelligence
-* 💻 Computer Science
-* 🎓 Education Technology
-* 🏥 Health Technology
-* 🌱 Environmental Technology
+*  Artificial Intelligence
+*  Computer Science
+*  Education Technology
+*  Health Technology
+*  Environmental Technology
 * Technology for Nigeria & Africa
 
-### 🛠️ Currently Learning
+###  Currently Learning
 
 `Python` • `JavaScript` • `Git` • `Algorithms` • `Mathematics` • `AI/ML
 
 
-### 📫 Reach Me
+###  Reach Me
 
-* **GitHub:** You're already here 🙂
+* **GitHub:** You're already here 
 * **WhatsApp:** https://wa.link/xu8krx
 
 > **Learn. Build. Improve. Make an impact. 🌍**
